@@ -4,7 +4,7 @@
 
 2) Update the value in values.yaml file
 
-3) Refer the references for the flluentbits to configure the s3 bucket settings to push the eks pods log to s3 bucket.
+3) Refer the references for the flluentbits to configure the s3 bucket settings to push the nodes systemd logs to s3 bucket.
 
 4) Install the helm charts
         
